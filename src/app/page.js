@@ -3,7 +3,7 @@ import { AnimatedSpan, Terminal, TypingAnimation } from "@/components/magicui/te
 export default function Home() {
   return (
     <>
-    <div className="flex w-full min-h-screen items-center justify-center">
+    <div className="flex w-full min-h-screen items-center justify-center mx-4">
       <Terminal>
           <TypingAnimation>&gt; npm install coffeecodecommunity</TypingAnimation>
         
